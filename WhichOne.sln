@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhichOne", "WhichOne.csproj", "{42A10656-C3E0-4E18-82F8-455AD134927C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{DB406540-B4C2-4554-BD97-568EFB24D571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A10656-C3E0-4E18-82F8-455AD134927C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A10656-C3E0-4E18-82F8-455AD134927C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A10656-C3E0-4E18-82F8-455AD134927C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A10656-C3E0-4E18-82F8-455AD134927C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{42A10656-C3E0-4E18-82F8-455AD134927C} = {DB406540-B4C2-4554-BD97-568EFB24D571}
+	EndGlobalSection
+EndGlobal
